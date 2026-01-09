@@ -1,1 +1,1 @@
-///Write a progra
+///Write a program 

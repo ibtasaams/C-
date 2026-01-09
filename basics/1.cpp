@@ -1,13 +1,8 @@
-////Write a program to get the input name from the user and Greet him/her
+// Write your first program saying “Hello World”. Now change the program to print your name and roll number instead.
 #include <iostream>
-#include <string>
 using namespace std;
-int main()
-{
-    string username;
-    cout << "Enter your username: ";
-    getline(cin, username);
-    cout << "Welcome " << username << "!\n";
+int main(){
+    cout << "Hello World" << endl;
+    cout << 540642;
     return 0;
 }
-///--------------------------------------------Copyrights--Ibtasaam Abbasi-------------------------------------------
