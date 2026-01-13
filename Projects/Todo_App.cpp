@@ -1,4 +1,5 @@
 /////Write a program using functions to calculate the class average and print the names of students with their marks
+////i)/ add the marks of student
 
 #include <iostream>
 using namespace std;
