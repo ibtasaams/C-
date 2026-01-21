@@ -1,16 +1,20 @@
-/*Find the total number of pairs in the array whose sum is equal to the given 
-value x*/
+///Find the total no of pairs in the array whose sum is equal to the given no x
 #include <iostream>
 using namespace std;
 int main(){
     int x;
     cout << "Enter x: ";
     cin >> x;
-    int arr[6] = {1,3,5,6,8,9};
-    for(int i=0; i<6; i++){
-        for(int j=i+1; i<6; i++){
-            cout << "(" << arr[i] << "," << arr[j] << ")";
+    int count = 0;
+    int arr[8]= {1,2,3,4,5,6,7,8};
+    for(int i=0; i<8; i++){
+        for(int j=i+1; j<8; j++){
+            if(x == arr[i] + arr[j]){
+                cout << "Pair "<< count+1 << " : (" << arr[i] << ", " << arr[j] << ")" <<endl;
+                count ++;
+            }
         }
     }
+    cout << "Total Pairs = "<< count;
     return 0;
 }
