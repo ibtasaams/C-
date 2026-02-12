@@ -848,3 +848,58 @@ int main()
     portal.menu();
     return 0;
 }
+
+#include <iostream>
+#include <string>
+using namespace std;
+double average(int n, int marks[]){
+    int sum = 0;
+    for(int i=0; i<n; i++){
+        sum += marks[i];
+    }
+    double avg = sum/n;
+    return avg;
+}
+void belowAverage(int marks[], int n, string names[], double calculate_average){
+    for(int i=0; i<n; i++){
+        if(calculate_average > marks[i]){
+            cout << names[i] << endl;
+        }
+    }
+}
+void highestScore(int marks[], int n){
+    int max = marks[0];
+    for(int i=0; i<n; i++){
+        if(marks[i]>max){
+            max = marks[i];
+        }
+    }
+    cout << "Highest Marks: " << max << endl;
+}
+void studentWithHighestScore(int marks[],string names[], int n, highestScore()){
+    for(int i=0; i<n; i++){
+        if(marks == max){
+            cout << names[i] << endl;
+        }
+    }
+}
+int main(){
+    int n;
+    cout << "Enter no of students: ";
+    cin >> n;
+    int marks[n];
+    string names[n];
+    for(int i=0; i<n; i++){
+        cout << "Enter name of student " << i+1 << " : ";
+        cin >> names[i];
+        cout << "Enter marks of " << names[i] << " : ";
+        cin >> marks[i];
+    }
+    double calculate_average = average(n,marks);p
+    cout << "The average is " << calculate_average << endl;
+    cout << "Students Below Average: " << endl;
+    belowAverage(marks, n, names, calculate_average);
+    highestScore(marks, n);
+    
+    return 0;
+}
