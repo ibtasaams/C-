@@ -1,0 +1,67 @@
+2d arrays\1.cpp ||| Matrix addition operations using 2d arrays
+2d arrays\2.cpp ||| Matrix subtract operations using 2d arrays
+2d arrays\3.cpp ||| Matrix operations using 2d arrays
+Arrays\Problem12.cpp ||| (No comment found)
+Arrays\Problem13.cpp ||| (No comment found)
+Arrays\Problem_1.cpp ||| Take input from the user as its marks and then store the marks in it Now if the marks are less than 35 print the rollNo of studnet Roll No here refers to the index of array continuos memory allocations -bytesfor int - 1 element = 4 bytes due to continuos we can get the address Write a program to print first and last element of array Calculate the sum of marks of students in the array Passing arrays to functions Given an array of integers, change the value of all odd indexed elemments
+Arrays\Problem_10.cpp ||| Given an array find the triplet whose sum is equal to the given number x
+Arrays\Problem_11.cpp ||| Write a program to reverse an array using two pointer approach
+Arrays\Problem_2.cpp ||| Write a program to get elements of array from the user
+Arrays\Problem_3.cpp ||| Write a program to find the sum of elements fo array
+Arrays\Problem_4.cpp ||| Write a program to print the product of the array
+Arrays\Problem_5.cpp ||| Write a program to find the maximum number in an array
+Arrays\Problem_6.cpp ||| Write a progrm to find the minimum number in an array
+Arrays\Problem_7.cpp ||| (No comment found)
+Arrays\Problem_8.cpp ||| (No comment found)
+Arrays\Problem_9.cpp ||| Find the total no of pairs in the array whose sum is equal to the given no x
+basics\Problem_10.cpp ||| Write a program to find the real roots of the quadratic equation
+basics\Problem_11.cpp ||| Function to calculate weighted average
+basics\Problem_12.cpp ||| Given the radius of the sphere find the volume and surface area of the sphere
+basics\Problem_13.cpp ||| (No comment found)
+basics\Problem_2.cpp ||| (No comment found)
+basics\Problem_3.cpp ||| (No comment found)
+basics\Problem_4.cpp ||| (No comment found)
+basics\Problem_5.cpp ||| Write a program to calculate the area and perimeter of a rectangle
+basics\Problem_6.cpp ||| Write a program to calculate the circumference and area of circle
+basics\Problem_7.cpp ||| Write a program to convert the degree celsius temperature to fahrenhiet
+basics\Problem_8.cpp ||| (No comment found)
+basics\Problem_9.cpp ||| (No comment found)
+Loops\Problem_1.cpp ||| Write a C program to print all natural numbers from 1 to n. - using while loop
+Loops\Problem_10.cpp ||| Write a program to count the digits of a number
+Loops\Problem_11.cpp ||| Write a program to find the first and last digit of a number
+Loops\Problem_12.cpp ||| Write  a program to find the sum of first and last digit of a number
+Loops\Problem_13.cpp ||| (No comment found)
+Loops\Problem_2.cpp ||| Write a C program to print all natural numbers in reverse (from n to 1). - using while loop
+Loops\Problem_3.cpp ||| Write a C program to print all alphabets from a to z. - using while loop
+Loops\Problem_4.cpp ||| Write a C program to print all even numbers between 1 to 100. - using while loop
+Loops\Problem_5.cpp ||| Write a program to print all odd numbers from 1 to 100 using while loop
+Loops\Problem_6.cpp ||| Write a C program to find sum of all natural numbers between 1 to n. Method 1.
+Loops\Problem_7.cpp ||| Write a program to sum all even numbers from 1 to n
+Loops\Problem_8.cpp ||| Write a program to calculate sum of all odd numbers from 1 to n
+Loops\Problem_9.cpp ||| Write a program to print multiplication of numbers using while numbers
+OOPS\Problem2.cpp ||| Create a class Student with a default constructor that automatically sets name = unknown and marks = 0 display the values when object is created
+OOPS\Problem3.cpp ||| (No comment found)
+OOPS\Problem_1.cpp ||| (No comment found)
+OOPS\Problem_23.cpp ||| (No comment found)
+OOPS\Problem_4.cpp ||| (No comment found)
+Pattern Printing\Pattern_1.cpp ||| Write a program to print the rectangle pattern
+Pattern Printing\Pattern_17.cpp ||| Write a program to print the inverted pyramid pattern
+Pattern Printing\Problem_10.cpp ||| Write a program to print the hollow right triangle pattern
+Pattern Printing\Problem_11.cpp ||| Write a program to print the mirrored right angled pattern
+Pattern Printing\Problem_12.cpp ||| Write a program to print the hollow mirrored right angle triangle
+Pattern Printing\Problem_13.cpp ||| Write a program to print the inverted right triangle pattern
+Pattern Printing\Problem_14.cpp ||| Write a program to print the inverted hollow triangle
+Pattern Printing\Problem_15.cpp ||| Write a program to print the pyramid star pattern
+Pattern Printing\Problem_16.cpp ||| (No comment found)
+Pattern Printing\Problem_2.cpp ||| Write a program to print the square pattern
+Pattern Printing\Problem_3.cpp ||| Write a program to print the hollow square pattern
+Pattern Printing\Problem_4.cpp ||| Write a program to print the hollow square pattern with diagonal
+Pattern Printing\Problem_5.cpp ||| Write a program to print the rhombus pattern
+Pattern Printing\Problem_6.cpp ||| Write a program to print the hollow rhombus pattern
+Pattern Printing\Problem_7.cpp ||| Write a program to print the mirrored rhombus pattern
+Pattern Printing\Problem_8.cpp ||| Write a program to print the hollow rhombus mirrored pattern
+Pattern Printing\Problem_9.cpp ||| Write a program to print the right star triangle pattern
+Recursion\Problem_1.cpp ||| Write a program to print n times "Good Morning " using recursion
+Recursion\Problem_2.cpp ||| Write a program to print n to 1 using recursion
+Recursion\Problem_3.cpp ||| Write a program to print 1 to n using recursion
+Recursion\Problem_5.cpp ||| """"
